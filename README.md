@@ -19,3 +19,8 @@ hfs  中文美化版，exe  auto   自动化封装，windows桌面自动化
 
 
 ![封装文件](https://github.com/user-attachments/assets/4b243072-1e39-4e15-b236-1c55fee6ea4f)
+
+
+打印机连接连工具，特别适合集团公司。
+
+![printer](https://github.com/user-attachments/assets/6865c826-58cf-4edd-93c0-e64e88c55b41)
