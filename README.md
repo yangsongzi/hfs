@@ -15,9 +15,9 @@ hfs  中文美化版，exe  auto   自动化封装，windows桌面自动化
 ![temple_index](https://github.com/user-attachments/assets/e1bc49dd-795f-44bf-9cf8-37c00f7b9503)
 
 
-4：微信和企业微信，封装各种包，在user权限下，可以安装。
+4：批量安装微信和企业微信，打印机脚本，封装各种包，在user权限下，可以安装。
 
-
+有进度条，仪式感。
 ![封装文件](https://github.com/user-attachments/assets/4b243072-1e39-4e15-b236-1c55fee6ea4f)
 
 
