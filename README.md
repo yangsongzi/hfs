@@ -3,7 +3,7 @@ hfs  中文美化版，exe  auto   自动化封装，windows桌面自动化
 
 
 
-1:点文件配置加载centaline\centaline.tpl
+1:点菜单配置加载centaline\centaline.tpl
 
 2:运行‘hfs2_4rc2.exe’
 
