@@ -17,4 +17,5 @@ hfs  中文美化版，exe  auto   自动化封装，windows桌面自动化
 
 4：微信和企业微信，封装各种包，在user权限下，可以安装。
 
-![Uploading 封装文件.png…]()
+
+![封装文件](https://github.com/user-attachments/assets/4b243072-1e39-4e15-b236-1c55fee6ea4f)
