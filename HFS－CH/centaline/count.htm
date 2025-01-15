@@ -1,0 +1,27 @@
+ <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+ 2 <%@ page import="java.io.*,java.util.*" %>
+ 3 <html>
+ 4 <html>
+ 5 <head>
+ 6 <title>访问量统计</title>
+ 7 </head>
+ 8 <body>
+ 9 <%10     Integer hitsCount = 
+11       (Integer)application.getAttribute("hitCounter");
+12     if( hitsCount ==null || hitsCount == 0 ){
+13        /* 第一次访问 */
+14        out.println("欢迎访问!");
+15        hitsCount = 1;
+16     }else{
+17        /* 返回访问值 */
+18        out.println("欢迎再次访问");
+19        hitsCount += 1;
+20     }
+21     application.setAttribute("hitCounter", hitsCount);
+22 %>
+23 
+24 <p>页面访问量为: <%= hitsCount%></p>
+25 
+26 
+27 </body>
+28 </html>

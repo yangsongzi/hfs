@@ -1,0 +1,9 @@
+iframe width=50 height=20 frameborder=0 scrolling=no src=counter.aspx></iframe> 
+
+<a href="http://www.w3school.com.cn/" target="_blank">Visit W3School!</a>
+
+HTML标记里面Href是跳转页面，点击就会跳转到一个新的页面（比如：<link href=""/> <a href=""></a>），src=“”是资源的路径包括图片，视频，通常有Img、embed、frame 
+
+http://centamsntab/centahelp/ithelper.aspx
+
+<iframe width=50 height=20 frameborder=0 scrolling=no src=http://centamsntab/centahelp/ithelper.aspx></iframe> 

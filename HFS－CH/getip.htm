@@ -1,0 +1,19 @@
+<script language="JavaScript">
+function GetLocalIPAddr(){
+var oSetting = null;
+var ip = null;
+try{
+oSetting = new ActiveXObject("rcbdyctl.Setting");
+ip = oSetting.GetIPAddress;
+alert(ip);
+if (ip.length == 0){
+return "没有连接到Internet";
+}
+oSetting = null;
+}catch(e){
+return ip;
+}
+return ip;
+}
+alert(GetLocalIPAddr())
+</script>
